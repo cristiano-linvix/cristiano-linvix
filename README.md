@@ -34,7 +34,7 @@
 ### Package Manager 📦
 <p>
     <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/NPM-593D88?style=for-the-badge&logo=npm&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/NPM-c43031?style=for-the-badge&logo=npm&logoColor=white" height="30"/>
     <img src="https://img.shields.io/badge/YARN-25799f?style=for-the-badge&logo=yarn&logoColor=white" height="30"/>
 </p>
 
